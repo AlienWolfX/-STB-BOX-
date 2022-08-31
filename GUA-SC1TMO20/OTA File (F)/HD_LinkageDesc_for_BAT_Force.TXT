@@ -1,9 +1,0 @@
-======= Linkage descriptor =====================================================
-descriptor_tag        : 74(0x4a)
-descriptor_length     : 23(0x17)
-transport_stream_id   : 3(0x0003)
-original_network_id   : 174(0x00ae)
-service_id            : 65510(0xffe6)
-linkage_type          : 9(0x09)
-private_data_byte     : 09 0e 1f b8 00 16 00 02 10 00 00 00 00 00 02 01
-================================================================================
